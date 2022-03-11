@@ -1,0 +1,19 @@
+name: scs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - cartopy
+  - cmocean
+  - geopandas
+  - geoplot
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - scipy
+  - seaborn
+  - tqdm
+  - pip:
+    - gpx_converter

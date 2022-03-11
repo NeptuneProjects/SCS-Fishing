@@ -6,4 +6,6 @@ This project seeks to examine when and to what extent countries with unresolved 
 
 ```SCS_FishingAnalysis.ipynb``` - Jupyter Notebook containing workflow, including instructions on how to set up project directory with data.
 
+```scs.py``` - Contains utility classes, functions, and command-line tool for data processing and other workflow steps performed in the notebook.
+
 ```scs.yml``` - Contains required Python packages to run the notebook.

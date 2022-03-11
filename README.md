@@ -9,3 +9,11 @@ This project seeks to examine when and to what extent countries with unresolved 
 ```scs.py``` - Contains utility classes, functions, and command-line tool for data processing and other workflow steps performed in the notebook.
 
 ```scs.yml``` - Contains required Python packages to run the notebook.
+
+```\Data``` - Contains processed data that is used to produce final figures in the notebook.
+
+## Data
+
+GIS data are available here: https://drive.google.com/drive/folders/1-2r4dAfpx_9gHqK_8V9V89WFnoLzsi3y?usp=sharing
+
+Fishing data were obtained from [https://www.globalfishingwatch.org](Global Fishing Watch)'s ```Fishing Effort``` dataset.  Data are available freely but require account access and user agreement/license acknowledgement, hence why I will not provide the data here.

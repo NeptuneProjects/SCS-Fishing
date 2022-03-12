@@ -16,4 +16,4 @@ This project seeks to examine when and to what extent countries with unresolved 
 
 GIS data are available here: https://drive.google.com/drive/folders/1-2r4dAfpx_9gHqK_8V9V89WFnoLzsi3y?usp=sharing
 
-Fishing data were obtained from <a href="https://www.globalfishingwatch.org/" target="_blank">Global Fishing Watch</a>```Fishing Effort``` dataset.  Data are available freely but require account access and user agreement/license acknowledgement, hence why I will not provide the data here.
+Fishing data were obtained from <a href="https://www.globalfishingwatch.org/" target="new">Global Fishing Watch</a>'s ```Fishing Effort``` dataset.  Data are available freely but require account access and user agreement/license acknowledgement, hence why I will not provide the data here.
